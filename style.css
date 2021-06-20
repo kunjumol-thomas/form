@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    
+}
+.box{
+    padding: 100px;
+    background: linear-gradient( #ffccff,#cc99cc,#996699);
+    display: inline-block;
+    text-align: center;
+}
+.txt-filed{
+    width: 250px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+.btn{
+    width: 140px;
+    height: 55px;
+    border-radius: 5px;
+    background-color: #fdd1fd;
+    border: none;
+
+}
+.btn:hover{
+    transition: all ease-in-out .5s;
+    background-color: #943294;
+}
