@@ -8,13 +8,14 @@ body{
     
 }
 .box{
-    padding: 100px;
+    padding: 50px;
     background: linear-gradient( #ffccff,#cc99cc,#996699);
     display: inline-block;
     text-align: center;
+    width: 500px;
 }
 .txt-filed{
-    width: 250px;
+    width: 280px;
     padding: 8px;
     border-radius: 5px;
     border: none;
